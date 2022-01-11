@@ -1,0 +1,17 @@
+.imageCss {
+    float: left;
+    max-height: 80px;
+    padding-right: 30px;
+}
+
+.content {
+    text-align: left;
+}
+
+.btnStyle {
+    margin-bottom: 20px;
+    color: #000;
+    background-color: #fff;
+    padding: 10px;
+    font-size: 20px;
+}

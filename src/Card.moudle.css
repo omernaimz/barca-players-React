@@ -1,0 +1,16 @@
+ul {
+    border: 1px solid white;
+    color: yellow;
+    background-color: #000;
+    max-width: 700px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    margin: 50px auto;
+    padding: 20px;
+    list-style: none;
+    box-shadow: 5px 8px 15px 15px rgba(255, 30, 0, 0.26);
+}
+
+li {
+    margin-bottom: 10px;
+}
